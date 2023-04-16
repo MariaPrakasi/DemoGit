@@ -1,6 +1,6 @@
 
 public class demo {
 	public static void main(String[] args) {
-		System.out.println("Hello world change");
+		System.out.println("Hello world change - jenkins trigger check");
 	}
 }
